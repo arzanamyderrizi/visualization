@@ -10,25 +10,55 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      1. Good Data Viz Example (PCOS Dashboard)
 
+Link: https://public.tableau.com/app/profile/jennifer.eneh/viz/PCOSDashboard_17297311153800/pcosdashboard
 
+Why it’s Good:
 
+Purpose & Audience Alignment: 
+- The dashboard is clearly targeted at a general health-interested audience, possibly patients or other people learning about PCOS. It answers common questions such as “How common is PCOS?”, “What are symptoms?”, and “Does exercise impact it?” This aligns well with exploratory and educational purposes.
 
+Perceptual Quality: 
+- The dashboard sections are visually separated and labeled with understandable headers.
+- Graph types are chosen with user understanding in mind: bar and pie charts are familiar and thus reduce extraneous cognitive load
 
+Substantive Quality:
+- The charts appear to accurately reflect data. There is no misleading scale manipulation.
+- Clear use of color and minimal clutter helps to emphasize the information being presented.
 
+Aesthetic Quality:
+- The visual is clean and uses a limited, consistent color palette, enhancing Gestalt principles such as proximity and similarity.
+- The layout is easy to follow, which supports efficient scanning and comparison between sections.
 
+2. Bad Data Viz: Long-term Trend Mathematics Scores
+
+Link: https://www.foxnews.com/media/chart-sharp-declines-math-reading-scores-during-covid
+
+Why it's bad?
+
+Misleading Framing:
+- The title and subtitle use dramatic language like “sharp declines” and “first ever score drop,” which pushes a strong emotional reaction before viewers even look at the data.
+- Although there was a drop from 2020 to 2022, the chart design makes it seem more dramatic than it really is.
+
+Y-Axis Manipulation/Perceptual Distortion:
+- The y-axis starts at 200 instead of 0, which makes the small drop (241 to 234) look much bigger. This exaggerates the change and gives a misleading visual impression.
+- A 7-point drop on a 500-point scale is important, but not huge.
+
+Missing Context:
+- The chart doesn’t show error bars or confidence intervals. Without this context, people can’t judge whether the drop is unusually large or just a typical fluctuation. Also, no source of data mentioned.
       ```
+
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+Good Example. The graph in the center, which presents hormone levels like AMH and prolactin, assumes some subject-matter familiarity. For general audiences, more labeling or tooltips could reduce germane cognitive loa
 
+Bad Example: 
 
-
-
-
-
-      
+- Start the y-axis at 0 to avoid exaggerating the decline.
+- Add a source label and provide statistical context such as historical variation or margin of error.
+- Use neutral language in the title to allow viewers to interpret the data without bias.
+    
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
