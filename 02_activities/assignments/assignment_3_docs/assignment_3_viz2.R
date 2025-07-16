@@ -6,6 +6,7 @@ library(readxl)
 library(dplyr)
 library(ggplot2)
 library(scales)
+library(tidyverse)
 
 # Download and extract
 zip_url <- "https://data.ontario.ca/dataset/acc1ff32-3995-469d-9e94-adedf17f9c4e/resource/2a1c0f32-22b9-4bde-bc79-499b460282d5/download/en_2023-2024.zip"
